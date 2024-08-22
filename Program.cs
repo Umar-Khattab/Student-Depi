@@ -1,4 +1,5 @@
-﻿namespace Student_Depi
+﻿//Omar Khattab Hassan
+namespace Student_Depi
 {
     public class Students
     {
